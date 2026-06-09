@@ -1,6 +1,7 @@
 import keyboard
 
-print('To stop the recordong press Escape button\n')
+
+print('To stop the recording press Escape button\n')
 
 board = {0: '1234567890!@#$%^&*()_+-=', 1: 'qwertyuiop[]\\{}йцукенгшщзхъ',
          2: 'asdfghjkl;\':"фывапролджэ', 3: 'zxcvbnm,./<>?ячсмитьбю'}
@@ -24,8 +25,8 @@ print(f'the third row {third_layer} times.')
 print(f'You have pressed shift {shifts} times')
 print(f'And also You have pressed backspace {backspaces} times')
 
-
-input('\nPress Enter to close the program')
+print('\nPress Enter to close the program')
+keyboard.wait('enter')
 
 
 
