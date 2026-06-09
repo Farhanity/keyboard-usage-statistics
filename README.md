@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # keyboard-usage-statistics
-=======
-# Keyboard Usage Statistics
 
 Simple Python program that records keyboard activity and displays usage statistics.
 
