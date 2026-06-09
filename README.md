@@ -37,4 +37,3 @@ the third row 40 times.
 You have pressed shift 12 times
 And also You have pressed backspace 13 times
 ```
->>>>>>> f963745 (Initial commit)
